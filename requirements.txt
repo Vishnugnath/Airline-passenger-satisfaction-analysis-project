@@ -1,1 +1,26 @@
 
+# Data manipulation
+pandas==1.5.3
+numpy==1.24.1
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.13.0
+
+# Machine learning
+scikit-learn==1.2.2
+xgboost==1.7.4
+
+# Feature engineering
+feature-engine==1.5.0
+
+# SQL support
+mysql-connector-python==8.0.30
+
+# Power BI API support
+pbi-tools==1.2.3
+
+# Jupyter notebook support
+notebook==7.0.3
+ipython==8.10.0
